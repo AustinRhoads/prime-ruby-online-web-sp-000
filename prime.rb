@@ -1,5 +1,10 @@
 # Add  code here!
 def prime?(x)
-puts  x*x
+  if x>1
+nums = (2..x)
+else
+  return false
+end  
 end
-prime?(2)
+
+prime?(11)
