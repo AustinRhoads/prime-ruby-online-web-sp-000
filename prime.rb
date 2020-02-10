@@ -1,5 +1,5 @@
 # Add  code here!
 def prime?(x)
-  x*x
+puts  x*x
 end
 prime?(2)
