@@ -4,7 +4,7 @@ def prime?(x)
 nums = (2..x)
 else
   return false
-end  
+end
 end
 
 prime?(11)
