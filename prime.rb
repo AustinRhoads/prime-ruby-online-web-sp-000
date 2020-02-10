@@ -2,7 +2,7 @@
 def prime?(x)
   if x>1
 nums = (2..x).to_a
-return nums
+puts nums
 else
   return false
 end
