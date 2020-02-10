@@ -9,7 +9,7 @@ end
 else
   return false
 end
-check.any?(0)
+check.none?(0)
 end
 
 prime?(11)
